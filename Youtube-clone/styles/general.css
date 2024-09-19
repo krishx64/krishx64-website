@@ -1,0 +1,12 @@
+p{
+    font-family: Roboto, Arial;
+}
+/*This is how to comment in css*/
+body{
+    font-family: Roboto, Arial;
+    margin: 0px;
+    padding-top:80px;
+    height:3000px;
+    padding-left: 100px;
+    background-color: rgba(211, 211, 211, 0.132);
+}
